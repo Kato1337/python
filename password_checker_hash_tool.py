@@ -8,6 +8,7 @@ from tkinter import filedialog, messagebox
 import hashlib, secrets, string, math, os
 
 COMMON_PASSWORDS = {
+    '123456','password','123456789','12345678','12345','111111','1234567',
     'sunshine','qwerty','iloveyou','princess','admin','welcome','666666',
     'abc123','football','monkey','login','starwars'
 }
